@@ -19,3 +19,4 @@ add_executable(runUnitTests
 )
 
 target_link_libraries(runUnitTests gtest ${CMAKE_SOURCE_DIR}/lib/libmylib.a)
+add_test(RunMylibTest mylibTest)

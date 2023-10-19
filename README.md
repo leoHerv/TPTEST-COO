@@ -15,6 +15,6 @@ A la racine du projet, faire un clic droit puis faire `Reload CMake Project`.
   
 - Pour l'exectution de `exe` : sélectionner `exe` > run  
   
-- Pour l'exectution des tests google : sélectionner `Run MylibTest` > run  
-  (Note : Si après le reload du Cmake `Run MylibTest` a un problème alors faire run > Continue Anyway)
+- Pour l'exectution des tests google : sélectionner `RunMylibTest` > run  
+  (Note : Si après le reload du Cmake `RunMylibTest` a un problème alors faire run > Continue Anyway)
 
