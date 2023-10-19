@@ -1,3 +1,0 @@
-/mnt/c/Users/leooh/Documents/Ecole/Université/M1/COO/CLION/TPTEST/cmake-build-debug/googletest-download/CMakeFiles/googletest-download.dir
-/mnt/c/Users/leooh/Documents/Ecole/Université/M1/COO/CLION/TPTEST/cmake-build-debug/googletest-download/CMakeFiles/edit_cache.dir
-/mnt/c/Users/leooh/Documents/Ecole/Université/M1/COO/CLION/TPTEST/cmake-build-debug/googletest-download/CMakeFiles/rebuild_cache.dir
