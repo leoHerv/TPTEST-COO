@@ -1,2 +1,4 @@
-# Create the coostring lib in cmake
-add_library(mylib STATIC mylib.cpp)
+add_executable(exe main.cpp
+        test.cpp
+        test.h)
+

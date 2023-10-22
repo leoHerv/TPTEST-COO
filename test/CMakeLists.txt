@@ -14,9 +14,11 @@ download_project(
 
 add_subdirectory(${googletest_SOURCE_DIR} ${googletest_BINARY_DIR} EXCLUDE_FROM_ALL)
 
-add_executable(runUnitTests
+add_executable(RunTests
         gtest.cpp
+        ../src/test.cpp
+        ../src/test.h
 )
 
-target_link_libraries(runUnitTests gtest ${CMAKE_SOURCE_DIR}/lib/libmylib.a)
-add_test(RunMylibTest mylibTest)
+target_link_libraries(RunTests gtest)
+add_test(RunT testsSRC)

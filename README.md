@@ -8,13 +8,9 @@ Projet realiser avec CLion, build et run avec WSL.
 
 A la racine du projet, faire un clic droit puis faire `Reload CMake Project`.
 
-# RUN 
-
-- Pour la creation de `mylib` : sélectionner `Creation mylib` > build > résultat dans /cmake-build-debug/src  
- Mettre `libmylib.a` dans le repertoire lib
+# RUN
   
 - Pour l'exectution de `exe` : sélectionner `exe` > run  
   
-- Pour l'exectution des tests google : sélectionner `RunMylibTest` > run  
-  (Note : Si après le reload du Cmake `RunMylibTest` a un problème alors faire run > Continue Anyway)
+- Pour l'exectution des tests google : sélectionner `RunTests` > run
 
